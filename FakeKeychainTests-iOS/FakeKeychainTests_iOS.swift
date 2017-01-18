@@ -1,15 +1,14 @@
 //
-//  FakeKeychainTests.swift
-//  FakeKeychainTests
+//  FakeKeychainTests_iOS.swift
+//  FakeKeychainTests-iOS
 //
 //  Created by Zhu Shengqi on 19/01/2017.
 //  Copyright © 2017 Zhu Shengqi. All rights reserved.
 //
 
 import XCTest
-@testable import FakeKeychain
 
-class FakeKeychainTests: XCTestCase {
+class FakeKeychainTests_iOS: XCTestCase {
     
     override func setUp() {
         super.setUp()
